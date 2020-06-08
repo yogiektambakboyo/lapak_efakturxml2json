@@ -1,0 +1,3 @@
+rootProject.name='xmltojson_efaktur'
+include ':app'
+include ':xmljsonefaktur'
